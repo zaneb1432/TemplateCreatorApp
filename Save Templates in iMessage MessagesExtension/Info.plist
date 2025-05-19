@@ -4,6 +4,8 @@
 <dict>
 	<key>NSExtension</key>
 	<dict>
+		<key>MSMessagesExtensionStoreIconName</key>
+		<string>iMessageIcons</string>
 		<key>NSExtensionMainStoryboard</key>
 		<string>MainInterface</string>
 		<key>NSExtensionPointIdentifier</key>
